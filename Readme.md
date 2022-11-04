@@ -5,4 +5,4 @@
 
 ### Project
 - [pi-heaan tutorial](/code/tutorial.ipynb)
-- [mean, std with pi-heaan](/code/mean_std.ipynb)
+- [mean, var, std with pi-heaan](/code/mvs.ipynb)
