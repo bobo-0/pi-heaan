@@ -4,5 +4,5 @@
   - basic setting to use pi-heaan
   - simple addtion and multiplication with two ciphertext
 
-2. [msv.ipynb](mean_std.ipynb)
+2. [mvs.ipynb](mvs.ipynb)
   - calculate mean, variance, standard deviation of a ciphertext
